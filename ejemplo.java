@@ -4,5 +4,6 @@ public class ejemplo{
 	System.out.println("Michael Díaz González");
 	System.out.println("19 años");
 	System.out.println("León");
+	System.out.println("Septiembre")
  }
 }
